@@ -37,7 +37,7 @@ outputs:
       color_theme: '_builtin_default'
       pages:
         - sheet: 'Drawings'
-          scaling: 2
+          scaling: 1
           layers: 
           - layer: F.Mask
             color: '#111111'
