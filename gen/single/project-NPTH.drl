@@ -4,14 +4,8 @@ M48
 ; #@! TF.FileFunction,NonPlated,1,4,NPTH
 FMAT,2
 METRIC
-; #@! TA.AperFunction,NonPlated,NPTH,ComponentDrill
-T1C1.152
 %
 G90
 G05
-T1
-X129.262Y-116.037
-X133.262Y-149.037
-X207.262Y-116.037
 T0
 M30
