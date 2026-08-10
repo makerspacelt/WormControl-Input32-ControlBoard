@@ -6,8 +6,8 @@
 
   (title_block
     (title "WormControl-Input32-ControlBoard")
-    (date "2026-03-20")
-    (rev "0.2")
+    (date "2026-08-10")
+    (rev "0.3")
     (company "makerspace.lt")
   )
 
@@ -2203,7 +2203,7 @@
       (reference "R308") (unit 1) (value "22R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/cf6f250d-b254-4849-a279-287cc86f70b7/ca898df0-95ab-4301-b94b-a391ee91d1e1"
-      (reference "R309") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R309") (unit 1) (value "1k5") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/cf6f250d-b254-4849-a279-287cc86f70b7/a659802a-8a82-4d1f-8cb9-b5043bfa5ec4"
       (reference "R310") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
@@ -2213,6 +2213,9 @@
     )
     (path "/cf6f250d-b254-4849-a279-287cc86f70b7/0712bfee-48c2-4f69-92b2-507ae722d581"
       (reference "R312") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/cf6f250d-b254-4849-a279-287cc86f70b7/549d1113-5f5f-4cb4-ad06-3d6497003bca"
+      (reference "R313") (unit 1) (value "3k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/cf6f250d-b254-4849-a279-287cc86f70b7/8d752761-9d17-4f9f-be9e-92103576f202"
       (reference "SW301") (unit 1) (value "15mm") (footprint "-local:SW_SPST_15")
